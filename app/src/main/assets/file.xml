@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+    <students>
+        <name>Abhishek Bhosle</name>
+        <salary>50000</salary>
+    </students>
+    <students>
+        <name>Vaibhav Zapake</name>
+        <salary>40000</salary>
+    </students>
+    <students>
+        <name>Risab Bhat</name>
+        <salary>35000</salary>
+    </students>
+    <students>
+        <name>rushikesh Aambre</name>
+        <salary>50000</salary>
+    </students>
+    <students>
+        <name>Snehal Jadhav</name>
+        <salary>40000</salary>
+    </students>
+    <students>
+        <name>Akash Parkale</name>
+        <salary>35000</salary>
+    </students>
+</records>
